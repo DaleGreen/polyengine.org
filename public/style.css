@@ -1,0 +1,21 @@
+html {
+    background-color: #2b2e35;
+}
+
+.nav-bar {
+    width: 80%;
+    height: 40px;
+    background-color: #2b2e35;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    color: white;
+    font-family: "Saira", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: xx-large;
+}
